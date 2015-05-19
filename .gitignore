@@ -1,0 +1,4 @@
+assignment1/.env/*
+assignment1/.ipynb_checkpoints/*
+assignment1/cs224d/datasets/*
+*.pyc
